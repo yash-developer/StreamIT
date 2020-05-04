@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974124640222",
+    "firebase_url": "https://streamitv3.firebaseio.com",
+    "project_id": "streamitv3",
+    "storage_bucket": "streamitv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974124640222:android:20a891e44e412af3b61f4f",
+        "android_client_info": {
+          "package_name": "com.example.streamitv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974124640222-0i7t26d90oqeu0vh73j7csm2c30bmpek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streamitv3",
+            "certificate_hash": "78863e6a30036c102a13c12c4b94ec50b471160b"
+          }
+        },
+        {
+          "client_id": "974124640222-arn1ms0vp804b1kqh69b4ob4o47lqj3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNAdcHDMvAd97qJKVADKYmuQb5VxAxz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974124640222-arn1ms0vp804b1kqh69b4ob4o47lqj3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
